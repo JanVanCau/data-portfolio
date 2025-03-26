@@ -9,7 +9,8 @@
 
 <div style="text-align: justify">I constructed a time series model to predict name choice in Belgium, based on historical data.</div>
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
+<center><img src="images/baby.jpeg"/></center>
+<center><img src="images/Ada.png"/></center>
 <br>
 
 ---
@@ -18,9 +19,9 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">I created a Sudoku Solver in Python, and made a website to make it publicly available.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/sudoku.png"/></center>
 <br>
 
 ---
