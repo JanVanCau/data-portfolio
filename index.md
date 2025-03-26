@@ -17,7 +17,7 @@
 ### Sudoku Solver
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/JanVanCau/sudoku])
 
 <div style="text-align: justify">I created a Sudoku Solver in Python, and made a website to make it publicly available.</div>
 <br>
